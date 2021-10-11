@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyMcMagadan
-- 👀 I’m interested in Python.
+- 👀 I’m interested in Python and Django.
 - 🌱 I’m currently learning in GeekBrains.
 - 💞️ I’m looking to collaborate on python_development commands.
 - 📫 How to reach me - more on that later.
